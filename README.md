@@ -39,6 +39,7 @@ Fuente: https://github.com/Codecademy/datasets/blob/master/streeteasy/streeteasy
 | borough  | Ciudad  |
 
 
-Storytelling:
+
+
 El proyecto se inició para facilitarle la tarea a la inmobiliaria de tener que ponerle el precio a las propiedades a rentar, pero a su vez nos dimos cuenta que puede ser de utilidad para las personas que buscan alquilar una propiedad o bien, ponerle un precio competitivo a sus propiedades, para que otras personas los elijan por encima del resto. 
 
